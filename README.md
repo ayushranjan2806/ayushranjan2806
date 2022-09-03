@@ -17,10 +17,9 @@
 
 -   ACHIEVEMENT SIH WINNER'22 UNDER PROBLEM STATEMENT TITLE PREPARING AI READY DATASETS
 
-- 📄 Know about my experiences [RESUME_LINK (https://drive.google.com/file/d/1zXDGNrvBVUOJsYYRmsgZdwJ8JcQmS92W/view?usp=sharing)]
+- 📄 Know about my experiences [RESUME_LINK :-(https://drive.google.com/file/d/1zXDGNrvBVUOJsYYRmsgZdwJ8JcQmS92W/view?usp=sharing)]
 
 - ⚡ Fun fact **I THINK I AM FUNNY XD**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-ranjan-131720207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-ranjan-131720207" height="30" width="40" /></a>
