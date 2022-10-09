@@ -17,7 +17,7 @@
 
 -   ACHIEVEMENT SIH WINNER'22 UNDER PROBLEM STATEMENT TITLE PREPARING AI READY DATASETS
 
-- 📄 Know about my experiences [RESUME_LINK :-(https://drive.google.com/file/d/1zXDGNrvBVUOJsYYRmsgZdwJ8JcQmS92W/view?usp=sharing)]
+- 📄 Know about my experiences [RESUME_LINK :-(https://drive.google.com/file/d/1ccVucX2HSOBnRoXexqwBu0b0TPhBKygB/view?usp=sharing)]
 
 - ⚡ Fun fact **I THINK I AM FUNNY XD**
 <h3 align="left">Connect with me:</h3>
